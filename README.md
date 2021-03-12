@@ -11,3 +11,6 @@
 | _Very Deep Convolutional Networks for Large-Scale Image Recognition_ | [1409.1556](https://arxiv.org/pdf/1409.1556.pdf) |
 | _Fully Convolutional Networks for Image Segmentation_ | [1411.4038](https://arxiv.org/pdf/1411.4038.pdf)| 
 | _DeepLab: Semantic Image Segmentation withDeep Convolutional Nets, Atrous Convolution,and Fully Connected CRFs_ | [1606.00915](https://arxiv.org/pdf/1606.00915.pdf) | 
+| _You Only Look Once: Unified, Real-Time Object Detection_ | [1506.02640](https://arxiv.org/pdf/1506.02640.pdf) |
+| _SSD: Single Shot MultiBox Detector_ | [1512.02325](https://arxiv.org/pdf/1512.02325.pdf) |
+| _Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks_ | [1506.01497](https://arxiv.org/pdf/1506.01497.pdf) |
