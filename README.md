@@ -14,3 +14,4 @@
 | _You Only Look Once: Unified, Real-Time Object Detection_ | [1506.02640](https://arxiv.org/pdf/1506.02640.pdf) |
 | _SSD: Single Shot MultiBox Detector_ | [1512.02325](https://arxiv.org/pdf/1512.02325.pdf) |
 | _Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks_ | [1506.01497](https://arxiv.org/pdf/1506.01497.pdf) |
+| _Batch Normalization: Accelerating Deep Network Training byReducing Internal Covariate Shift_ | [1502.03167](https://arxiv.org/pdf/1502.03167.pdf) |
