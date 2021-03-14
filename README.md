@@ -16,3 +16,4 @@
 | _Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks_ | [1506.01497](https://arxiv.org/pdf/1506.01497.pdf) |
 | _Batch Normalization: Accelerating Deep Network Training byReducing Internal Covariate Shift_ | [1502.03167](https://arxiv.org/pdf/1502.03167.pdf) |
 | _SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size_ | [1602.07360](https://arxiv.org/pdf/1602.07360.pdf) |
+| _FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction_ | [1901.03495](https://arxiv.org/pdf/1901.03495.pdf) |
