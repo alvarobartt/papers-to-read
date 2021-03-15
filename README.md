@@ -1,6 +1,10 @@
 # papers-to-read
 
-## Computer Vision
+## 🔮 Future Taks
+
+- [ ] Refactor to something similar as [casual-digressions](https://github.com/GokuMohandas/casual-digressions)
+
+## 👁️ Computer Vision
 
 | Research Paper | Arxiv URL | Personal Repository |
 |----------------|-----------|---------------------|
