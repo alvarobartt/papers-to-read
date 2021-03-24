@@ -7,8 +7,8 @@ simplifying hard-to-understand concepts. Also, some of those contain an implemen
 TensorFlow/Keras, PyTorch, MXNet or JAX.
 
 __Disclaimer__. This is a personal repository, so what may be useful or easy to understand to me
-may be complex to you, so don't take the contents listed here as a must-follow guide or anything. This
-is just the way I share what I usually do while reading research papers.
+may be complex to you, so don't take the contents listed here as a must-follow guide. This
+is just the way I share what I usually do while reading/implementing research papers.
 
 ## [`understanding-resnet`](https://github.com/alvarobartt/understanding-resnet)
 
