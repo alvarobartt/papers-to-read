@@ -10,6 +10,12 @@ TensorFlow/Keras, PyTorch, MXNet or JAX.
 may be complex to you, so don't take the contents listed here as a must-follow guide. This
 is just the way I share what I usually do while reading/implementing research papers.
 
+:man_teacher: __Credits__. Obviosuly the credits go to the original authors of the papers, but I would like
+also to thank [Ross Wightman](https://github.com/rwightman), [Phil Wang](https://github.com/lucidrains), and 
+[Yannic Kilcher](https://youtube.com/c/yannickilcher) for the inspiration to start sharing how do I read and 
+implement ML/DL research papers. Also as a personal recommendation go check their socials, as all of 
+them create awesome content that you should keep an eye on if interested in ML/DL.
+
 ---
 
 ## [`understanding-resnet`](https://github.com/alvarobartt/understanding-resnet)
@@ -26,6 +32,8 @@ but also the implementation of the ResNet architecture written in PyTorch, MXNet
 Additionally, here you will also find the ResNet20 trained with CIFAR10, as proposed by the
 authors; which is the smallest ResNet described in the original paper.
 
+---
+
 ## [`understanding-vgg`](https://github.com/alvarobartt/understanding-vgg) - April/May 2021
 
 | Research Paper | URL |
@@ -33,6 +41,8 @@ authors; which is the smallest ResNet described in the original paper.
 | _Very Deep Convolutional Networks for Large-Scale Image Recognition_ | [![arXiv](https://img.shields.io/badge/arXiv-1409.1556-b31b1b.svg?style=flat)](https://arxiv.org/abs/1409.1556)
 
 __TL;DR__ bla bla bla
+
+---
 
 ## [`understanding-yolo`](https://github.com/alvarobartt/understanding-yolo) - April/May 2021
 
@@ -45,6 +55,8 @@ __TL;DR__ bla bla bla
 | _YOLOv4: Optimal Speed and Accuracy of Object Detection_ | [![arXiv](https://img.shields.io/badge/arXiv-2004.10934-b31b1b.svg?style=flat)](https://arxiv.org/abs/2004.10934)
 
 __TL;DR__ bla bla bla
+
+---
 
 ## [`not-ready-yet`](https://github.com/alvarobartt/)
 
