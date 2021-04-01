@@ -18,7 +18,7 @@ them create awesome content that you should keep an eye on if interested in ML/D
 
 ---
 
-## [`understanding-resnet`](https://github.com/alvarobartt/understanding-resnet)
+## [`understanding-resnet`](https://github.com/alvarobartt/understanding-resnet) - April 2021
 
 | Research Paper | URL |
 |----------------|-----|
