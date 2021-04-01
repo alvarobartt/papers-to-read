@@ -6,37 +6,56 @@ as to have a better understanding of the papers, explaining complex ideas with m
 simplifying hard-to-understand concepts. Also, some of those contain an implementation in either
 TensorFlow/Keras, PyTorch, MXNet or JAX.
 
-__Disclaimer__. This is a personal repository, so what may be useful or easy to understand to me
+:warning: __Disclaimer__. This is a personal repository, so what may be useful or easy to understand to me
 may be complex to you, so don't take the contents listed here as a must-follow guide. This
 is just the way I share what I usually do while reading/implementing research papers.
 
+---
+
 ## [`understanding-resnet`](https://github.com/alvarobartt/understanding-resnet)
 
-* __Deep Residual Learning for Image Recognition (ResNet)__ [[1512.03385]](https://arxiv.org/pdf/1512.03385.pdf)
-* __Bag of Tricks for Image Classification with Convolutional Neural Networks__. [[1812.01187]](https://arxiv.org/pdf/1812.01187.pdf)
+| Research Paper | URL |
+|----------------|-----|
+| _Deep Residual Learning for Image Recognition (ResNet)_ | [![arXiv](https://img.shields.io/badge/arXiv-1512.03385-b31b1b.svg?style=flat)](https://arxiv.org/abs/1512.03385)
+| _Bag of Tricks for Image Classification with Convolutional Neural Networks_ | [![arXiv](https://img.shields.io/badge/arXiv-1812.01187-b31b1b.svg?style=flat)](https://arxiv.org/abs/1812.01187)
 
-## [`understanding-vgg`](https://github.com/alvarobartt/understanding-vgg)
+__TL;DR__ In Residual Learning the layers are reformulated as learning residual functions with
+reference to the layer inputs. These networks are easier to optimize, and can gain accuracy
+from considerably increased depth. Along this repository not just an explanation is provided
+but also the implementation of the ResNet architecture written in PyTorch, MXNet and JAX. 
+Additionally, here you will also find the ResNet20 trained with CIFAR10, as proposed by the
+authors; which is the smallest ResNet described in the original paper.
 
-* __Very Deep Convolutional Networks for Large-Scale Image Recognition__ [[1409.1556]](https://arxiv.org/pdf/1409.1556.pdf)
+## [`understanding-vgg`](https://github.com/alvarobartt/understanding-vgg) - April/May 2021
 
-## [`understanding-yolo`](https://github.com/alvarobartt/understanding-yolo)
+| Research Paper | URL |
+|----------------|-----|
+| _Very Deep Convolutional Networks for Large-Scale Image Recognition_ | [![arXiv](https://img.shields.io/badge/arXiv-1409.1556-b31b1b.svg?style=flat)](https://arxiv.org/abs/1409.1556)
 
-* __You Only Look Once: Unified, Real-Time Object Detection__ [[1506.02640]](https://arxiv.org/pdf/1506.02640.pdf)
-* __YOLO Nano: a Highly Compact You Only Look Once Convolutional Neural Network for Object Detection__ [[1910.01271]](https://arxiv.org/pdf/1910.01271.pdf)
-* __YOLO9000: Better, Faster, Stronger (YOLOv2)__ [[1612.08242]](https://arxiv.org/pdf/1612.08242.pdf)
-* __YOLOv3: An Incremental Improvement__ [[1804.02767]](https://arxiv.org/pdf/1804.02767.pdf)
-* __YOLOv4: Optimal Speed and Accuracy of Object Detection__ [[2004.1093]](https://arxiv.org/pdf/2004.10934.pdf)
+__TL;DR__ bla bla bla
+
+## [`understanding-yolo`](https://github.com/alvarobartt/understanding-yolo) - April/May 2021
+
+| Research Paper | URL |
+|----------------|-----|
+| _You Only Look Once: Unified, Real-Time Object Detection_ | [![arXiv](https://img.shields.io/badge/arXiv-1506.02640-b31b1b.svg?style=flat)](https://arxiv.org/abs/1506.02640)
+| _YOLO Nano: a Highly Compact You Only Look Once Convolutional Neural Network for Object Detection_ | [![arXiv](https://img.shields.io/badge/arXiv-1910.01271-b31b1b.svg?style=flat)](https://arxiv.org/abs/1910.01271)
+| _YOLO9000: Better, Faster, Stronger (YOLOv2)_ | [![arXiv](https://img.shields.io/badge/arXiv-1612.08242-b31b1b.svg?style=flat)](https://arxiv.org/abs/1612.08242)
+| _YOLOv3: An Incremental Improvement_ | [![arXiv](https://img.shields.io/badge/arXiv-1804.02767-b31b1b.svg?style=flat)](https://arxiv.org/abs/1804.02767)
+| _YOLOv4: Optimal Speed and Accuracy of Object Detection_ | [![arXiv](https://img.shields.io/badge/arXiv-2004.10934-b31b1b.svg?style=flat)](https://arxiv.org/abs/2004.10934)
+
+__TL;DR__ bla bla bla
 
 ## [`not-ready-yet`](https://github.com/alvarobartt/)
 
-| Research Paper | Arxiv URL |
-|----------------|-----------|
-| _High-Performance Large-Scale Image Recognition Without Normalization_ | [2102.06171](https://arxiv.org/pdf/2102.06171.pdf) |
-| _EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks_ | [1905.11946](https://arxiv.org/pdf/1905.11946.pdf) |
-| _Fully Convolutional Networks for Image Segmentation_ | [1411.4038](https://arxiv.org/pdf/1411.4038.pdf)| 
-| _DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs_ | [1606.00915](https://arxiv.org/pdf/1606.00915.pdf) | 
-| _SSD: Single Shot MultiBox Detector_ | [1512.02325](https://arxiv.org/pdf/1512.02325.pdf) |
-| _Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks_ | [1506.01497](https://arxiv.org/pdf/1506.01497.pdf) |
-| _Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift_ | [1502.03167](https://arxiv.org/pdf/1502.03167.pdf) |
-| _SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size_ | [1602.07360](https://arxiv.org/pdf/1602.07360.pdf) |
-| _FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction_ | [1901.03495](https://arxiv.org/pdf/1901.03495.pdf) |
+| Research Paper | URL |
+|----------------|-----|
+| _High-Performance Large-Scale Image Recognition Without Normalization_ | [![arXiv](https://img.shields.io/badge/arXiv-2102.06171-b31b1b.svg?style=flat)](https://arxiv.org/abs/2102.06171)
+| _EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks_ | [![arXiv](https://img.shields.io/badge/arXiv-1905.11946-b31b1b.svg?style=flat)](https://arxiv.org/abs/1905.11946)
+| _Fully Convolutional Networks for Image Segmentation_ | [![arXiv](https://img.shields.io/badge/arXiv-1411.4038-b31b1b.svg?style=flat)](https://arxiv.org/abs/1411.4038)
+| _DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs_ | [![arXiv](https://img.shields.io/badge/arXiv-1606.00915-b31b1b.svg?style=flat)](https://arxiv.org/abs/1606.00915)
+| _SSD: Single Shot MultiBox Detector_ | [![arXiv](https://img.shields.io/badge/arXiv-1512.02325-b31b1b.svg?style=flat)](https://arxiv.org/abs/1512.02325)
+| _Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks_ | [![arXiv](https://img.shields.io/badge/arXiv-1506.01497-b31b1b.svg?style=flat)](https://arxiv.org/abs/1506.01497)
+| _Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift_ | [![arXiv](https://img.shields.io/badge/arXiv-1502.03167-b31b1b.svg?style=flat)](https://arxiv.org/abs/1502.03167)
+| _SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size_ | [![arXiv](https://img.shields.io/badge/arXiv-1602.07360-b31b1b.svg?style=flat)](https://arxiv.org/abs/1602.07360)
+| _FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction_ | [![arXiv](https://img.shields.io/badge/arXiv-1901.03495-b31b1b.svg?style=flat)](https://arxiv.org/abs/1901.03495)
