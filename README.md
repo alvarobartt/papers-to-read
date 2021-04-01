@@ -10,7 +10,7 @@ TensorFlow/Keras, PyTorch, MXNet or JAX.
 may be complex to you, so don't take the contents listed here as a must-follow guide. This
 is just the way I share what I usually do while reading/implementing research papers.
 
-:man_teacher: __Credits__. Obviosuly the credits go to the original authors of the papers, but I would like
+:man_teacher: __Credits__. Obviously the credits go to the original authors of the papers, but I would like
 also to thank [Ross Wightman](https://github.com/rwightman), [Phil Wang](https://github.com/lucidrains), and 
 [Yannic Kilcher](https://youtube.com/c/yannickilcher) for the inspiration to start sharing how do I read and 
 implement ML/DL research papers. Also as a personal recommendation go check their socials, as all of 
