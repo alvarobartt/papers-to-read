@@ -18,19 +18,21 @@ them create awesome content that you should keep an eye on if interested in ML/D
 
 ---
 
-## [`understanding-resnet`](https://github.com/alvarobartt/understanding-resnet) - April 2021
+## [`understanding-resnet`](https://github.com/alvarobartt/understanding-resnet)
 
 | Research Paper | URL |
 |----------------|-----|
 | _Deep Residual Learning for Image Recognition (ResNet)_ | [![arXiv](https://img.shields.io/badge/arXiv-1512.03385-b31b1b.svg?style=flat)](https://arxiv.org/abs/1512.03385)
 | _Bag of Tricks for Image Classification with Convolutional Neural Networks_ | [![arXiv](https://img.shields.io/badge/arXiv-1812.01187-b31b1b.svg?style=flat)](https://arxiv.org/abs/1812.01187)
+| _Identity Mappings in Deep Residual Networks (ResNet v2)_ | [![arXiv](https://img.shields.io/badge/arXiv-1603.05027-b31b1b.svg?style=flat)](https://arxiv.org/abs/1603.05027)
 
 __TL;DR__ In Residual Learning the layers are reformulated as learning residual functions with
 reference to the layer inputs. These networks are easier to optimize, and can gain accuracy
 from considerably increased depth. Along this repository not just an explanation is provided
-but also the implementation of the ResNet architecture written in PyTorch, MXNet and JAX. 
-Additionally, here you will also find the ResNet20 trained with CIFAR10, as proposed by the
-authors; which is the smallest ResNet described in the original paper.
+but also the implementation of the original ResNet architecture written in PyTorch. 
+Additionally, here you will also find both the ResNet20 & ResNet32 trained with CIFAR10, as proposed by the
+authors; which are some of the smallest ResNets described in the original paper. And, also some
+ported weights for the bigger ResNets trained with ImageNet.
 
 ---
 
@@ -39,8 +41,6 @@ authors; which is the smallest ResNet described in the original paper.
 | Research Paper | URL |
 |----------------|-----|
 | _Very Deep Convolutional Networks for Large-Scale Image Recognition_ | [![arXiv](https://img.shields.io/badge/arXiv-1409.1556-b31b1b.svg?style=flat)](https://arxiv.org/abs/1409.1556)
-
-__TL;DR__ bla bla bla
 
 ---
 
@@ -54,11 +54,9 @@ __TL;DR__ bla bla bla
 | _YOLOv3: An Incremental Improvement_ | [![arXiv](https://img.shields.io/badge/arXiv-1804.02767-b31b1b.svg?style=flat)](https://arxiv.org/abs/1804.02767)
 | _YOLOv4: Optimal Speed and Accuracy of Object Detection_ | [![arXiv](https://img.shields.io/badge/arXiv-2004.10934-b31b1b.svg?style=flat)](https://arxiv.org/abs/2004.10934)
 
-__TL;DR__ bla bla bla
-
 ---
 
-## [`not-ready-yet`](https://github.com/alvarobartt/)
+## :crystal_ball: Future Papers
 
 | Research Paper | URL |
 |----------------|-----|
