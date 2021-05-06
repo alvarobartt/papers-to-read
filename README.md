@@ -30,7 +30,7 @@ __TL;DR__ In Residual Learning the layers are reformulated as learning residual 
 reference to the layer inputs. These networks are easier to optimize, and can gain accuracy
 from considerably increased depth. Along this repository not just an explanation is provided
 but also the implementation of the original ResNet architecture written in PyTorch. 
-Additionally, here you will also find both the ResNet20 & ResNet32 trained with CIFAR10, as proposed by the
+Additionally, here you will also find some ResNets trained with CIFAR10, as proposed by the
 authors; which are some of the smallest ResNets described in the original paper. And, also some
 ported weights for the bigger ResNets trained with ImageNet.
 
