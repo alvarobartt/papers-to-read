@@ -36,7 +36,16 @@ ported weights for the bigger ResNets trained with ImageNet.
 
 ---
 
-## [`understanding-vgg`](https://github.com/alvarobartt/understanding-vgg) - April/May 2021
+## [`understanding-efficientnet`](https://github.com/alvarobartt/understanding-efficientnet) - Not ready yet!
+
+| Research Paper | URL |
+|----------------|-----|
+| _EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks_ | [![arXiv](https://img.shields.io/badge/arXiv-1905.11946-b31b1b.svg?style=flat)](https://arxiv.org/abs/1905.11946)
+| _EfficientNetV2: Smaller Models and Faster Training_ | [![arXiv](https://img.shields.io/badge/arXiv-2104.00298-b31b1b.svg?style=flat)](https://arxiv.org/abs/2104.00298)
+
+---
+
+## [`understanding-vgg`](https://github.com/alvarobartt/understanding-vgg) - Not ready yet!
 
 | Research Paper | URL |
 |----------------|-----|
@@ -44,7 +53,7 @@ ported weights for the bigger ResNets trained with ImageNet.
 
 ---
 
-## [`understanding-yolo`](https://github.com/alvarobartt/understanding-yolo) - April/May 2021
+## [`understanding-yolo`](https://github.com/alvarobartt/understanding-yolo) - Not ready yet!
 
 | Research Paper | URL |
 |----------------|-----|
@@ -56,12 +65,11 @@ ported weights for the bigger ResNets trained with ImageNet.
 
 ---
 
-## :crystal_ball: Future Papers
+## :crystal_ball: Future Papers to Read
 
 | Research Paper | URL |
 |----------------|-----|
 | _High-Performance Large-Scale Image Recognition Without Normalization_ | [![arXiv](https://img.shields.io/badge/arXiv-2102.06171-b31b1b.svg?style=flat)](https://arxiv.org/abs/2102.06171)
-| _EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks_ | [![arXiv](https://img.shields.io/badge/arXiv-1905.11946-b31b1b.svg?style=flat)](https://arxiv.org/abs/1905.11946)
 | _Fully Convolutional Networks for Image Segmentation_ | [![arXiv](https://img.shields.io/badge/arXiv-1411.4038-b31b1b.svg?style=flat)](https://arxiv.org/abs/1411.4038)
 | _DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs_ | [![arXiv](https://img.shields.io/badge/arXiv-1606.00915-b31b1b.svg?style=flat)](https://arxiv.org/abs/1606.00915)
 | _SSD: Single Shot MultiBox Detector_ | [![arXiv](https://img.shields.io/badge/arXiv-1512.02325-b31b1b.svg?style=flat)](https://arxiv.org/abs/1512.02325)
