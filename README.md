@@ -36,7 +36,7 @@ ported weights for the bigger ResNets trained with ImageNet.
 
 ---
 
-## [`understanding-efficientnet`](https://github.com/alvarobartt/understanding-efficientnet) - Not ready yet!
+## [`understanding-efficientnet`](https://github.com/alvarobartt/understanding-efficientnet) - Almost ready!
 
 | Research Paper | URL |
 |----------------|-----|
@@ -45,7 +45,7 @@ ported weights for the bigger ResNets trained with ImageNet.
 
 ---
 
-## [`understanding-vgg`](https://github.com/alvarobartt/understanding-vgg) - Not ready yet!
+## [`understanding-vgg`](https://github.com/alvarobartt/understanding-vgg) - In progress...
 
 | Research Paper | URL |
 |----------------|-----|
@@ -53,7 +53,7 @@ ported weights for the bigger ResNets trained with ImageNet.
 
 ---
 
-## [`understanding-yolo`](https://github.com/alvarobartt/understanding-yolo) - Not ready yet!
+## [`understanding-yolo`](https://github.com/alvarobartt/understanding-yolo) - In progress...
 
 | Research Paper | URL |
 |----------------|-----|
