@@ -11,8 +11,8 @@ may be complex to you, so don't take the contents listed here as a must-follow g
 is just the way I share what I usually do while reading/implementing research papers.
 
 :man_teacher: __Credits__. Obviously the credits go to the original authors of the papers, but I would like
-also to thank [Ross Wightman](https://github.com/rwightman), [Phil Wang](https://github.com/lucidrains), and 
-[Yannic Kilcher](https://youtube.com/c/yannickilcher) for the inspiration to start sharing how do I read and 
+also to thank __Ross Wightman__ [`@rwightman`](https://github.com/rwightman), __Phil Wang__ [`@lucidrains`](https://github.com/lucidrains), and 
+__Yannic Kilcher__ [`@yk`](https://github.com/yk) for the inspiration to start sharing how do I read and 
 implement ML/DL research papers. Also as a personal recommendation go check their socials, as all of 
 them create awesome content that you should keep an eye on if interested in ML/DL.
 
