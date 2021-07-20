@@ -36,12 +36,20 @@ ported weights for the bigger ResNets trained with ImageNet.
 
 ---
 
-## [`understanding-efficientnet`](https://github.com/alvarobartt/understanding-efficientnet) - Almost ready!
+## [`understanding-efficientnet`](https://github.com/alvarobartt/understanding-efficientnet) - In progress...
 
 | Research Paper | URL |
 |----------------|-----|
 | _EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks_ | [![arXiv](https://img.shields.io/badge/arXiv-1905.11946-b31b1b.svg?style=flat)](https://arxiv.org/abs/1905.11946)
 | _EfficientNetV2: Smaller Models and Faster Training_ | [![arXiv](https://img.shields.io/badge/arXiv-2104.00298-b31b1b.svg?style=flat)](https://arxiv.org/abs/2104.00298)
+
+---
+
+## [`understanding-fcn`](https://github.com/alvarobartt/understanding-fcn) - In progress...
+
+| Research Paper | URL |
+|----------------|-----|
+| _Fully Convolutional Networks for Image Segmentation_ | [![arXiv](https://img.shields.io/badge/arXiv-1411.4038-b31b1b.svg?style=flat)](https://arxiv.org/abs/1411.4038)
 
 ---
 
@@ -70,7 +78,6 @@ ported weights for the bigger ResNets trained with ImageNet.
 | Research Paper | URL |
 |----------------|-----|
 | _High-Performance Large-Scale Image Recognition Without Normalization_ | [![arXiv](https://img.shields.io/badge/arXiv-2102.06171-b31b1b.svg?style=flat)](https://arxiv.org/abs/2102.06171)
-| _Fully Convolutional Networks for Image Segmentation_ | [![arXiv](https://img.shields.io/badge/arXiv-1411.4038-b31b1b.svg?style=flat)](https://arxiv.org/abs/1411.4038)
 | _DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs_ | [![arXiv](https://img.shields.io/badge/arXiv-1606.00915-b31b1b.svg?style=flat)](https://arxiv.org/abs/1606.00915)
 | _SSD: Single Shot MultiBox Detector_ | [![arXiv](https://img.shields.io/badge/arXiv-1512.02325-b31b1b.svg?style=flat)](https://arxiv.org/abs/1512.02325)
 | _Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks_ | [![arXiv](https://img.shields.io/badge/arXiv-1506.01497-b31b1b.svg?style=flat)](https://arxiv.org/abs/1506.01497)
