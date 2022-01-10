@@ -53,7 +53,23 @@ ported weights for the bigger ResNets trained with ImageNet.
 
 ---
 
-## [`understanding-vgg`](https://github.com/alvarobartt/understanding-vgg) - In progress...
+## [`understanding-vit`](https://github.com/alvarobartt/understanding-vit) - In progress...
+
+| Research Paper | URL |
+|----------------|-----|
+| _An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale_ | [![arXiv](https://img.shields.io/badge/arXiv-2010.11929-b31b1b.svg?style=flat)](https://arxiv.org/abs/2010.11929)
+
+---
+
+## [`understanding-convmixer`](https://github.com/alvarobartt/understanding-convmixer) - In progress...
+
+| Research Paper | URL |
+|----------------|-----|
+| _Patches are all you need? 🤷🏼‍♂️_ | [![OpenReview](https://img.shields.io/badge/OpenReview-TVHS5Y4dNvM-b31b1b.svg?style=flat)](https://openreview.net/pdf?id=TVHS5Y4dNvM)
+
+---
+
+## [`understanding-vgg`](https://github.com/alvarobartt/understanding-vgg)
 
 | Research Paper | URL |
 |----------------|-----|
@@ -61,7 +77,7 @@ ported weights for the bigger ResNets trained with ImageNet.
 
 ---
 
-## [`understanding-yolo`](https://github.com/alvarobartt/understanding-yolo) - In progress...
+## [`understanding-yolo`](https://github.com/alvarobartt/understanding-yolo)
 
 | Research Paper | URL |
 |----------------|-----|
